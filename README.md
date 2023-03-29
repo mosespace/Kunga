@@ -51,7 +51,7 @@
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-## 🚀 Quick Preview (Vercel)
+## 🚀 Quick Preview (Gatsby Cloud)
 
-Note: This website is already deployed at Vercel and you can see it [here](src\pages\404.js):
+Note: This website is already deployed at Gatsby Cloud and you can see it [here](https://kunga.gatsbyjs.io/):
 
