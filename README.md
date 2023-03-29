@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="https://kunga.gatsbyjs.io/">
     <img alt="Kunga!" src="src\images\Logo.png" width="380" />
   </a>
   <h1 align="center" >
