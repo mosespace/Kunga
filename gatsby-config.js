@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Kunga`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://kunga.gatsbyjs.io/`
   },
   plugins: [ // "gatsby-plugin-google-gtag", 
               "gatsby-plugin-image", 
