@@ -1,22 +1,17 @@
-// Step 1: Import React
-import * as React from 'react'
-import { SEO } from "../components/seo"
-import { Link } from 'gatsby'
+import React from 'react'
+import Layout from '../components/Layout';
 
-// Step 2: Define your component
-const IndexPage = () => {
+export default function Home(){
   return (
-    <main>
-      <h1>Welcome to the Kunga.io</h1>
-      <p>Discover and join any Events closer to you!</p>
-    </main>
+    <Layout>
+      <section>
+        <div>
+          <h2>Kunga</h2>
+          <h3>Discover and joinany events closer to you!</h3>
+
+          <p>Whatever your interest, from coding and reading to networking and skill sharing, there are thousands of people who share it on <code>Kunga</code>. Events are happening every day—log in to join the fun</p>
+        </div>
+      </section>
+    </Layout>
   )
 }
-
-// You'll learn about this in the next task, just copy it for now
-export const Head = () => (
-  <SEO title="Home Page" />
-)
-
-// Step 3: Export your component
-export default IndexPage
