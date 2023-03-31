@@ -1,16 +1,14 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
-
+import Layout from '../components/Layout'
 
 /* Step 2: Defining our component. Note that our
 component name should start with a capital letter. */
 const AboutPage = () => {
     
     return (
-        <>
-        <Navbar/>
+       <Layout>
       <h1>Hi, welcome to my about site!</h1>
-      </>
+      </Layout>
     )
   }
 
