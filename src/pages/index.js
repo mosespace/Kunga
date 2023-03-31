@@ -1,22 +1,21 @@
-// Step 1: Import React
-import * as React from 'react'
-import { SEO } from "../components/seo"
-import { Link } from 'gatsby'
+import React from 'react'
+import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
 
-// Step 2: Define your component
-const IndexPage = () => {
-  return (
-    <main>
-      <h1>Welcome to the Kunga.io</h1>
-      <p>Discover and join any Events closer to you!</p>
-    </main>
-  )
-}
 
-// You'll learn about this in the next task, just copy it for now
-export const Head = () => (
-  <SEO title="Home Page" />
-)
+/* Step 2: Defining our component. Note that our
+component name should start with a capital letter. */
+const HomePage = () => {
+    
+    return (
+        <>
+        <Navbar/>
+      <h1>Hi, welcome to my site!</h1>
+      <Footer/>
+      </>
+    )
+  }
 
-// Step 3: Export your component
-export default IndexPage
+  /* Step 3: Exporting our component so it
+can be used by other parts of our app. */
+  export default HomePage
