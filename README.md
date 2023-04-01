@@ -7,6 +7,7 @@
 </h1>
 </p>
 
+Before you contribute!, Read our contribution [guide here](/CONTRIBUTING.md)
 
 ## 🚀 Quick start
 
