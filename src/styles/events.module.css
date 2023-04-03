@@ -1,0 +1,12 @@
+.events {
+    text-align: center;
+}
+.events > h2{
+    font-size: 3em;
+    margin-top: 88px;
+    
+}
+.events > h3 {
+    font-size: 1.5em;
+    font-weight: 400;
+}

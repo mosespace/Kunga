@@ -29,6 +29,10 @@ nav{
     grid-template-columns: 1fr 1fr;
     margin: 40px auto;
 }
+nav h1{
+    color: #ffa500;
+    cursor:not-allowed;
+}
 nav .links {
     display: inline-block;
     text-align: right;
