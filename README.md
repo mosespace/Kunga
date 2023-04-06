@@ -24,7 +24,7 @@ Before you contribute!, Read our contribution [guide here](/CONTRIBUTING.md)
 
 2.  **Start developing.**
 
-    Navigate into your clon in the directory you chose and start it up.
+    Navigate into your clone in the directory you chose and start it up.
 
     ```shell
     cd Desktop/Kunga
