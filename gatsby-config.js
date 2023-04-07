@@ -26,19 +26,12 @@ module.exports = {
               "gatsby-plugin-mdx", 
               "gatsby-plugin-sharp", 
               "gatsby-transformer-sharp", 
-            {
-    resolve: 'gatsby-source-filesystem',
+  {
+    resolve: `gatsby-source-filesystem`,
     options: {
-      "name": "images",
-      "path": "./src/images/"
+      "name": `projects`,
+      "path": `${__dirname}/src/projects/`,
     },
-    __key: "images"
-  }, {
-    resolve: 'gatsby-source-filesystem',
-    options: {
-      "name": "pages",
-      "path": "./src/pages/"
-    },
-    __key: "pages"
+    __key: `projects`,
   }]
 };
