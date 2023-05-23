@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Kunga.io`,
+    title: `Kunga.IO`,
     description: `Discover the best online events with Kunga. Find virtual concerts, workshops, and more. Browse our listings and book your next experience today
     
     Kunga is an online platform dedicated to listing a variety of virtual events, ranging from webinars and conferences to workshops and online classes. Our mission is to connect people with high-quality virtual events from all over the world, providing them with opportunities to learn, network, and grow from the comfort of their own homes. Our user-friendly interface allows event organizers to easily promote their events, while providing attendees with a comprehensive and intuitive search engine to find the events that best suit their interests. With Kunga, you can explore a world of online events and expand your horizons from the comfort of your own screen.

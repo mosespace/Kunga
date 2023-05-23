@@ -24,7 +24,8 @@ const data = useStaticQuery(graphql`
                 <Link to='/about'>About</Link>
                 <Link to='/events'>Events</Link>
                 <Link to='/contact'>Contact us</Link>
-                <Link to='/projects'>Portifolio Projects</Link>
+                <Link to='/projects'>Finished Events</Link>
+                <Link to='/backend'>Login</Link>
             </div>
         </nav>
     )
